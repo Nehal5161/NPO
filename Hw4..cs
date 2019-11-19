@@ -35,7 +35,7 @@ namespace Hw4
         public Chatroom()
         {
             // new Thread(ReadData).Start();
-            Console.WriteLine("Now reading data");
+            Console.WriteLine("Welcome to the chatroom!");
         }
 
         public void Message(byte[] data)
